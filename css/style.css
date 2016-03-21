@@ -37,3 +37,7 @@
  .hidden{
    display: none;
  }
+
+.borderplus{
+  border: 8px solid #66ff99;
+}

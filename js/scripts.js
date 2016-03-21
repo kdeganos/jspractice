@@ -28,5 +28,8 @@ $(document).ready(function() {
     $("div#2").addClass("hidden");
   });
 
+  $("body").mousemove(function() {
+    $("div.articlebox").("borderplus");
+  });
 
 });
